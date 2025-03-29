@@ -27,9 +27,6 @@ build/
 /nbdist/
 /.nb-gradle/
 
-# VS Code
-.vscode/
-
 # Ignore logs & hệ điều hành
 logs/
 *.log

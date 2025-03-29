@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ChuyenDeApplication<chuyen_de>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "maiviet.com.chuyen_de.ChuyenDeApplication",
+            "projectName": "chuyen_de",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
